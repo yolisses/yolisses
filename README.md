@@ -20,7 +20,6 @@ Here are some ideas to get you started:
 ### Eai pessoa? 👋
 
 - 🏫 Sou estudande de Análise e Desenvolvimento de Sistemas
-- ⚛ Atualmente aprendendo React
 - 🏗 Quero construir muitas aplicações para deixar a vida mais cômoda
 - principalmente com inteligência artificial 🤖
 
