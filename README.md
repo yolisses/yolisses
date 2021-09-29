@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 
 ### Eai pessoa? 👋
 
-- 🏫 Sou estudande de Análise e Desenvolvimento de Sistemas
-- 🏗 Quero construir muitas aplicações para deixar a vida mais cômoda
-- principalmente com inteligência artificial 🤖
+- Sou desenvolvedor frontend
+- Mas atualmente estou desenvolvendo um aplicativo como full stack
+- 🏗 Quero construir muitas coisas para deixar a vida mais cômoda
 
 👨‍🔬 Me interesso por basicamente qualquer coisa trabalhada com método científico.
