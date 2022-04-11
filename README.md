@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 -->
 
 
-### Eai pessoa? 👋
+### Hi there 👋
 
-- Sou desenvolvedor frontend
-- Mas atualmente estou desenvolvendo um aplicativo como full stack
-- 🏗 Quero construir muitas coisas para deixar a vida mais cômoda
+- 👨‍💻 I'm a full stack developer.
+- 🏗 I want to build a lot of useful things.
+- 👨‍🔬 I love to learn basically anything labored with scientific method.
 
-👨‍🔬 Me interesso por basicamente qualquer coisa trabalhada com método científico.
+- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating universal self-replicating robots.
