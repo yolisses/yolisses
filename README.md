@@ -23,4 +23,4 @@ Here are some ideas to get you started:
 - 🏗 I want to build a lot of useful things.
 - 👨‍🔬 I love to learn basically anything labored with scientific method.
 
-- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating universal self-replicating robots.
+- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general purpose self-replicating robots.
