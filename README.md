@@ -25,4 +25,4 @@ Here are some ideas to get you started:
 
 - Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general purpose self-replicating robots.
 
-![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlisses&count_private=true)
+![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlisses&count_private=true&theme=tokyonight)
