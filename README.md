@@ -24,3 +24,5 @@ Here are some ideas to get you started:
 - 👨‍🔬 I love to learn basically anything labored with scientific method.
 
 - Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general purpose self-replicating robots.
+
+![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlisses&count_private=true)
