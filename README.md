@@ -25,4 +25,8 @@ Here are some ideas to get you started:
 
 - Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general purpose self-replicating robots.
 
+[![My Skills](https://skills.thijs.gg/icons?i=java,kotlin,nodejs,figma](https://skills.thijs.gg/icons?i=js,html,css,nodejs,postgres,python,tensorflow,aws,react,tailwind,typescript,docker,git,mongo,nextjs)](https://skills.thijs.gg)
+
+
+
 ![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yowlisses&count_private=true&theme=tokyonight)
