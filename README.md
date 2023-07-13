@@ -1,8 +1,6 @@
 
 <!--
-### Hi there 👋
-
-**yowlisses/yowlisses** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Yo, sup? 👋
 
 Here are some ideas to get you started:
 
@@ -17,13 +15,18 @@ Here are some ideas to get you started:
 -->
 
 
-### Hi there 👋
+### Yo, sup? 👋
 
 - 👨‍💻 I'm a full stack developer.
-- 🏗 I want to build a lot of useful things.
-- 👨‍🔬 I love to learn basically anything labored with scientific method.
+  
+- 🎵 I'm currently working in a (overengineered) music AI.
+- 👥 If you're doing music or AI too, [__CALL ME__](https://api.whatsapp.com/send/?phone=558393450389&text=Hello,%20I%20saw%20your%20github%20profile&type=phone_number&app_absent=0).  
+We can be like Jobs & Wozniak, Gates & Allen, or Page & Brin. 
 
-- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general purpose self-replicating robots.
+- 🏗 I want to build a lot of valuable things.
+- 👨‍🔬 I love to learn basically anything labored with the scientific method.
+
+- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general-purpose self-replicating robots.
 
 
 ![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolisses&count_private=true&theme=tokyonight)
