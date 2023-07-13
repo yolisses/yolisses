@@ -26,7 +26,10 @@ We can be like Jobs & Wozniak, Gates & Allen, or Page & Brin.
 - 🏗 I want to build a lot of valuable things.
 - 👨‍🔬 I love to learn basically anything labored with the scientific method.
 
-- Fun fact: my ultimate goal is to bring virtually infinite power to humanity by creating general-purpose self-replicating robots.
+
+Fun facts: 
+- At the time I'm writing, I have more commits here in the last year than [Linus Torvalds](torvalds)
+- My ultimate goal is to bring virtually infinite power to humanity by creating general-purpose self-replicating robots.
 
 
 ![Ulisses Albuquerque's GitHub stats](https://github-readme-stats.vercel.app/api?username=yolisses&count_private=true&theme=tokyonight)
