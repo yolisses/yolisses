@@ -28,7 +28,7 @@ We can be like Jobs & Wozniak, Gates & Allen, or Page & Brin.
 
 
 Fun facts: 
-- At the time I'm writing, I have more commits here in the last year than [Linus Torvalds](torvalds)
+- At the time I'm writing, I have more commits here in the last year than [Linus Torvalds](https://github.com/torvalds).
 - My ultimate goal is to bring virtually infinite power to humanity by creating general-purpose self-replicating robots.
 
 
