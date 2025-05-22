@@ -1,6 +1,6 @@
 
 <!--
-### Yo, sup? 👋
+### Hello, World! 👋
 
 Here are some ideas to get you started:
 
@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### Yo, sup? 👋
+###  👋
 
 - 👨‍💻 I'm a full stack developer.
   
